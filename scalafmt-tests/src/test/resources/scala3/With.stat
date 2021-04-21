@@ -1,0 +1,11 @@
+
+<<< with
+object ValueTypes:
+    case object Private
+        extends ClassificationValue
+        with ConstantText
+>>>
+object ValueTypes:
+    case object Private
+        extends ClassificationValue
+        with ConstantText
